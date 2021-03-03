@@ -5,4 +5,4 @@
 - 💬 Ask me about Laravel, NodeJS, PHP, X++, C#
 - 📫 How to reach me: [@leecrosdale](https://twitter.com/leecrosdale)
 
-[![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=leecrosdale)](https://github.com/anuraghazra/github-readme-stats)
+[![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=leecrosdale&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
