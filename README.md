@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on - PBBGs
-- 🌱 I’m currently learning - Dynamics Business Central / CRM 
+- 🌱 I’m currently learning - Dynamics Business Central
 - 💬 Ask me about Laravel, NodeJS, PHP, X++, C#
-- 📫 How to reach me: [@leecrosdale](https://twitter.com/leecrosdale)
+- 📫 How to reach me: [@leecrosdale](https://x.com/leecrosdale)
 
 [![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=leecrosdale&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
